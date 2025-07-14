@@ -27,7 +27,7 @@ public class Constants {
 
     public static final int BORDER_PADDING = 10;
 
-    public static final String ABOUT_TITLE = "QZ Tray";
+    public static final String ABOUT_TITLE = "QZ Tray [lintaba]";
     public static final String ABOUT_URL = "https://qz.io";
     public static final String ABOUT_COMPANY = "QZ Industries, LLC";
 
